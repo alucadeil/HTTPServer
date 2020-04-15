@@ -1,0 +1,10 @@
+Access methods:
+   -GET
+   -POST
+   -OPTIONS
+Shared files:
+   -index.html
+   -text.txt
+Error pages:
+   -404.html
+   -501.html
