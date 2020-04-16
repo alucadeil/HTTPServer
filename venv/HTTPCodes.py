@@ -6,8 +6,3 @@ class HTTPCodes(enum.Enum):
     BAD_REQUEST = 400
     NOT_FOUND = 404
     NOT_IMPLEMENTED = 501
-
-    def getCode(self):
-        return
-
-
